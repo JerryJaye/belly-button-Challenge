@@ -26,3 +26,12 @@ Deploy to a GitHub free static page
 I have deployed to this page. URL is https://jerryjaye.github.io/bbdashboard/.
 
 References
+
+D3.js Data Visualization - Full Course - freecodecamp.org - YouTube
+
+Data visualization with D3 = Freecodecamp.org - YouTube
+
+Working with JSON in JavaScript - dcode - YouTube
+
+D3 - a Practical Introduction - Academend - YouTube
+ChatGPT 4.0
