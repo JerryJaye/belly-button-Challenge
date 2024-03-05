@@ -15,7 +15,7 @@ Initially, I downloaded the database and spent time examining its structures. Th
 
 At this stage, I rethought the project. I decided that it would be wise to download and assess the data, create functions to create the dropdown menu, update all of the visualisation charts, and create the bar chart, bubble chart and Metadata display. Once I had all the functions I would call them as required. The chart and data processing functions are called updateBarChart(sampleId, data), updateBubbleChart(sampleId, data), updatemetadata (sampleId, data) and updateBellyButtonWas(sampleId, data). Each function was passed the current sampleId and the total database. On receiving the sampleId and data it retrieved the appropriate data values required to complete the display for the currently selected sample. the function then plotted the display.
 
-After completing all the functions, I wrote code to update all of the displays in the first instance, that is when first running the code. After that the code to trigger an update on selecting a new sample.
+After completing all the functions, I wrote code to update all of the displays in the first instance, that is when first running the code. After that, the code triggers an update on selecting a new sample.
 
 Running the Program
 
@@ -23,6 +23,6 @@ The app program is called app.js, and its associated HTML file is called index.h
 
 Deploy to a GitHub free static page
 
-I have deployed to this page. URL is https://jerryjaye.github.io/belly-button-Challenge/.
+I have deployed to this page. URL is https://jerryjaye.github.io/bbdashboard/.
 
 References
